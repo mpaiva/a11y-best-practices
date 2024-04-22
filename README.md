@@ -1,5 +1,7 @@
-# Accessibility Best-practices
-Accessibility checkpoints and best-practices for product development lifecycle.
+# Accessibility Best Practices for Teams (Outline)
+Accessibility checkpoints and best practices for product development lifecycle.
+
+Authors: Daniel May, Marcelo Paiva, and John Toles
 
 ## Introduction
 This document outlines the key accessibility checkpoints to be integrated into the product development lifecycle. Ensuring accessibility at each stage not only enhances usability but also complies with legal standards like the ADA and WCAG.

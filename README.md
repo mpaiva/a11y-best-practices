@@ -60,7 +60,7 @@ This document outlines the key accessibility checkpoints to be integrated into t
   - Perform keyboard-only navigation testing.
   - Tools to help conducting manual tests
     - More to come.
-    - Review this list: [https://a11y-automation.dev/automated-tools](https://github.com/topics/accessibility-checker)) 
+    - Review this list: [https://github.com/topics/accessibility-checker](https://github.com/topics/accessibility-checker)
 
 ## Deployment
 - **Accessibility Statement** – Publish an up-to-date accessibility statement on the website.

@@ -39,10 +39,16 @@ This document outlines the key accessibility checkpoints to be integrated into t
 
 - **Use of ARIA**
   - Implement ARIA roles and properties where necessary.
+ 
+### Accessibility Linting Tools
+
+- **ESLint with Accessibility Plugins** – ESLint-plugin-jsx-a11y: This is a static AST checker for accessibility rules on JSX elements. When using React, this plugin helps enforce accessibility practices directly in your code.
+ESLint-plugin-vuejs-accessibility: For Vue.js projects, this plugin checks elements in .vue files for accessibility issues.
+- **Stylelint-a11y** – A plugin that enforces CSS rules that are important for accessibility, such as color contrast and text size.
 
 ## Testing
 - **Automated Testing**
-  - Integrate accessibility testing tools (e.g., Axe, Lighthouse) into the CI/CD pipeline.
+  - Integrate accessibility testing tools (e.g., Axe, Pa11y, Lighthouse) into the CI/CD pipeline.
 
 - **Manual Testing**
   - Conduct screen reader tests with actual users.

@@ -53,14 +53,14 @@ This document outlines the key accessibility checkpoints to be integrated into t
 ## Testing
 - **Automated Testing** – Integrate accessibility testing tools (e.g., Axe, Pa11y, Lighthouse) into the CI/CD pipeline.
   - More to come.
-  - Review this list:[https://a11y-automation.dev/automated-tools](https://a11y-automation.dev/automated-tools) 
+  - Review this list: [https://a11y-automation.dev/automated-tools](https://a11y-automation.dev/automated-tools) 
 
 - **Manual Testing**
   – Conduct screen reader tests with actual users.
   - Perform keyboard-only navigation testing.
   - Tools to help conducting manual tests
     - More to come.
-    - Review this list:([https://a11y-automation.dev/automated-tools](https://github.com/topics/accessibility-checker)) 
+    - Review this list: [https://a11y-automation.dev/automated-tools](https://github.com/topics/accessibility-checker)) 
 
 ## Deployment
 - **Accessibility Statement** – Publish an up-to-date accessibility statement on the website.
